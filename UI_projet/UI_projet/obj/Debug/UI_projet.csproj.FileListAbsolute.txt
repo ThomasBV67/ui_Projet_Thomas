@@ -1,0 +1,10 @@
+C:\Users\thoma\Desktop\ui-test\UI_projet\UI_projet\bin\Debug\UI_projet.exe.config
+C:\Users\thoma\Desktop\ui-test\UI_projet\UI_projet\bin\Debug\UI_projet.exe
+C:\Users\thoma\Desktop\ui-test\UI_projet\UI_projet\bin\Debug\UI_projet.pdb
+C:\Users\thoma\Desktop\ui-test\UI_projet\UI_projet\obj\Debug\UI_projet.csprojAssemblyReference.cache
+C:\Users\thoma\Desktop\ui-test\UI_projet\UI_projet\obj\Debug\UI_projet.Form1.resources
+C:\Users\thoma\Desktop\ui-test\UI_projet\UI_projet\obj\Debug\UI_projet.Properties.Resources.resources
+C:\Users\thoma\Desktop\ui-test\UI_projet\UI_projet\obj\Debug\UI_projet.csproj.GenerateResource.cache
+C:\Users\thoma\Desktop\ui-test\UI_projet\UI_projet\obj\Debug\UI_projet.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Desktop\ui-test\UI_projet\UI_projet\obj\Debug\UI_projet.exe
+C:\Users\thoma\Desktop\ui-test\UI_projet\UI_projet\obj\Debug\UI_projet.pdb
